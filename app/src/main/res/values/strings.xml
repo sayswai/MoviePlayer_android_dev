@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Movie Player</string>
+    <string name="action_settings">Settings</string>
+    <string name="large_txt">LARGE</string>
+    <string name="small_txt">small</string>
+    <string name="thumbnail_description">description</string>
+</resources>
